@@ -1,0 +1,20 @@
+BED | id=1 | status=AVAILABLE | type=General Ward
+BED | id=2 | status=AVAILABLE | type=General Ward
+BED | id=3 | status=AVAILABLE | type=General Ward
+BED | id=4 | status=AVAILABLE | type=General Ward
+BED | id=5 | status=OCCUPIED | type=General Ward
+BED | id=6 | status=AVAILABLE | type=General Ward
+BED | id=7 | status=AVAILABLE | type=General Ward
+BED | id=8 | status=AVAILABLE | type=General Ward
+BED | id=9 | status=AVAILABLE | type=General Ward
+BED | id=10 | status=AVAILABLE | type=General Ward
+BED | id=11 | status=AVAILABLE | type=ICU
+BED | id=12 | status=AVAILABLE | type=ICU
+BED | id=13 | status=AVAILABLE | type=ICU
+BED | id=14 | status=AVAILABLE | type=ICU
+BED | id=15 | status=AVAILABLE | type=ICU
+BED | id=16 | status=AVAILABLE | type=Private Room
+BED | id=17 | status=AVAILABLE | type=Private Room
+BED | id=18 | status=AVAILABLE | type=Private Room
+BED | id=19 | status=AVAILABLE | type=Private Room
+BED | id=20 | status=AVAILABLE | type=Private Room

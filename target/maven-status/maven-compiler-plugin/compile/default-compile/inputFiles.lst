@@ -1,0 +1,11 @@
+D:\Devops\Hospital management system\hospital-management-system\src\main\java\com\hospital\model\Bed.java
+D:\Devops\Hospital management system\hospital-management-system\src\main\java\com\hospital\servlet\AddDoctorServlet.java
+D:\Devops\Hospital management system\hospital-management-system\src\main\java\com\hospital\servlet\AddPatientServlet.java
+D:\Devops\Hospital management system\hospital-management-system\src\main\java\com\hospital\servlet\BedStatusServlet.java
+D:\Devops\Hospital management system\hospital-management-system\src\main\java\com\hospital\servlet\DeletePatientServlet.java
+D:\Devops\Hospital management system\hospital-management-system\src\main\java\com\hospital\servlet\DischargeServlet.java
+D:\Devops\Hospital management system\hospital-management-system\src\main\java\com\hospital\servlet\ViewBedServlet.java
+D:\Devops\Hospital management system\hospital-management-system\src\main\java\com\hospital\servlet\ViewDoctorServlet.java
+D:\Devops\Hospital management system\hospital-management-system\src\main\java\com\hospital\servlet\ViewPatientServlet.java
+D:\Devops\Hospital management system\hospital-management-system\src\main\java\com\hospital\util\BedUtil.java
+D:\Devops\Hospital management system\hospital-management-system\src\main\java\com\hospital\util\FileUtil.java
