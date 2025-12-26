@@ -1,0 +1,9 @@
+com\hospital\servlet\AddPatientServlet.class
+com\hospital\util\FileUtil.class
+com\hospital\servlet\ViewBedServlet.class
+com\hospital\servlet\ViewDoctorServlet.class
+com\hospital\servlet\ViewPatientServlet.class
+com\hospital\util\BedUtil.class
+com\hospital\model\Bed.class
+com\hospital\servlet\DeletePatientServlet.class
+com\hospital\servlet\AddDoctorServlet.class

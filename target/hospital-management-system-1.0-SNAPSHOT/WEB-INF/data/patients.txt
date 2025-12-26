@@ -1,0 +1,3 @@
+PATIENT | id=P101 | name=Rahul | age=25 | gender=Male | bed=3
+PATIENT | id=P102 | name=Anita | age=30 | gender=Female | bed=1
+PATIENT | id=P1766727436787 | name=Piyush Saini | age=23 | gender=male | bed=3
